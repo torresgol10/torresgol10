@@ -10,8 +10,8 @@ Soy un apasionado de la programación y un entusiasta de la tecnología con una 
 ### 🛠️ Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
@@ -27,6 +27,6 @@ Soy un apasionado de la programación y un entusiasta de la tecnología con una 
 ### 🚀 Proyectos Destacados
 | Proyecto | Descripción | Tech |
 | :--- | :--- | :--- |
+| **[Runts](https://github.com/torresgol10/runts)** | Ejecuta scripts de TypeScript directamente, rápido y sin configuración. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **[Zero CLS Font Fallback](https://github.com/torresgol10/zero-cls-font-fallback)** | Generador de CSS para evitar Saltos de Diseño Acumulados (CLS) ajustando fuentes de respaldo. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | **[Bootstrap Class Autocomplete](https://github.com/torresgol10/vsc-extension-bootstrap-class-autocomplete)** | Extensión de VS Code para autocompletado inteligente de clases Bootstrap. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **[Carousel Lazyload](https://github.com/torresgol10/bootstrap-carousel-lazyload)** | Carrusel Bootstrap optimizado con carga diferida (lazy load) y soporte WebP. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **[MCP Versioning](https://github.com/torresgol10/mcp-versioning)** | Herramienta CLI para gestión de versionado y releases. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |

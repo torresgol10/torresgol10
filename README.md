@@ -17,7 +17,7 @@ Soy un apasionado de la programación y un entusiasta de la tecnología con una 
 ---
 
 ### 📊 Estadísticas
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=torresgol10&theme=radical)
+![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=torresgol10&theme=radical)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torresgol10&theme=radical)
 
 ---

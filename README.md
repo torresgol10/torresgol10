@@ -17,16 +17,14 @@ Soy un apasionado de la programación y un entusiasta de la tecnología con una 
 ---
 
 ### 📊 Estadísticas
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=torresgol10&show_icons=true&theme=radical" alt="Estadísticas de torresgol10" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torresgol10&layout=compact&theme=radical" alt="Lenguajes Top" />
-</p>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=torresgol10&theme=radical)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torresgol10&theme=radical)
 
 ---
 
 ### 🚀 Proyectos Destacados
 | Proyecto | Descripción | Tech |
 | :--- | :--- | :--- |
-| **[Runts](https://github.com/torresgol10/runts)** | Ejecuta scripts de TypeScript directamente, rápido y sin configuración. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **[runts](https://github.com/torresgol10/runts)** | Ejecuta scripts de TypeScript directamente, rápido y sin configuración. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | **[Zero CLS Font Fallback](https://github.com/torresgol10/zero-cls-font-fallback)** | Generador de CSS para evitar Saltos de Diseño Acumulados (CLS) ajustando fuentes de respaldo. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | **[Bootstrap Class Autocomplete](https://github.com/torresgol10/vsc-extension-bootstrap-class-autocomplete)** | Extensión de VS Code para autocompletado inteligente de clases Bootstrap. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
